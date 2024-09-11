@@ -1,4 +1,4 @@
 # React Calculator
 
-## live at
+## see the demo at
 ### https://cheerful-dolphin-f8306f.netlify.app/ 
